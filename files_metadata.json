@@ -1,0 +1,14 @@
+{
+  "3b0a26c3c4c91d6e4b1eb8634cfc711e": {
+    "original_name": "HELLO WORLD.txt",
+    "size": 11,
+    "upload_time": "2025-10-22T18:52:03.272002",
+    "encrypted_path": "encrypted_files\\3b0a26c3c4c91d6e4b1eb8634cfc711e.enc"
+  },
+  "75688bbd605e88aa7c139aae28f04dc8": {
+    "original_name": "This is my secret message!.txt",
+    "size": 46,
+    "upload_time": "2025-10-22T18:54:12.348609",
+    "encrypted_path": "encrypted_files\\75688bbd605e88aa7c139aae28f04dc8.enc"
+  }
+}
